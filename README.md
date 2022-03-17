@@ -1,7 +1,8 @@
 # beam-go
 Go implementation
 
-Commands to run the wordcount.py
+**Commands to run the wordcount.py**
+
 
 go version
 
